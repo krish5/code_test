@@ -1,4 +1,4 @@
-# Getting started
+## Coding challenge
 
 Application to display races for gamling.
 
